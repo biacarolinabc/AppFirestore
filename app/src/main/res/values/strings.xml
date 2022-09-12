@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppFirestore</string>
+    <string name="editNome">Digite seu Nome: </string>
+    <string name="editEndereco">Digite seu Endereço: </string>
+    <string name="editBairro">Digite seu Bairro: </string>
+    <string name="editCep">Digite seu CEP: </string>
+    <string name="btnCadastrar">CADASTRAR</string>
+
+</resources>
